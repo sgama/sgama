@@ -1,4 +1,4 @@
-# [![sgama header](https://raw.githubusercontent.com/sgama/sgama/master/assets/k8s_banner.jpg)](https://samsongama.com/)
+# [![sgama header](https://raw.githubusercontent.com/sgama/sgama/master/assets/k8s_banner.png)](https://samsongama.com/)
 
 ### Hi there 👋
 
